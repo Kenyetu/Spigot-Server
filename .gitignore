@@ -22,3 +22,4 @@ banned-players.json
 ops.json
 *.java
 *.class
+**/work
