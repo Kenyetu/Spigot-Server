@@ -1,0 +1,206 @@
+# For more information, check out the plugin manual or join us on Discord:
+# http://www.mythicmobs.net
+#  
+
+  
+RandomZombie✫:
+    MobType: Zombie✫
+    Worlds: world
+    Chance: 0.27
+    Priority: 1
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomZombie✫✫:
+    MobType: Zombie✫✫
+    Worlds: world
+    Chance: 0.029
+    Priority: 2
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomZombie✫✫✫:
+    MobType: Zombie✫✫✫
+    Worlds: world
+    Chance: 0.010
+    Priority: 3
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomZombie✫✫✫✫:
+    MobType: Zombie✫✫✫✫
+    Worlds: world
+    Chance: 0.003
+    Priority: 4
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomZombie✫✫✫✫✫:
+    MobType: Zombie✫✫✫✫✫
+    Worlds: world
+    Chance: 0.0012
+    Priority: 5
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSkeleton✫:
+    MobType: Skeleton✫
+    Worlds: world
+    Chance: 0.35
+    Priority: 1
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+
+    
+RandomSkeleton✫✫:
+    MobType: Skeleton✫✫
+    Worlds: world
+    Chance: 0.033
+    Priority: 2
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+
+RandomSkeleton✫✫✫:
+    MobType: Skeleton✫✫✫
+    Worlds: world
+    Chance: 0.01
+    Priority: 3
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSkeleton✫✫✫✫:
+    MobType: Skeleton✫✫✫✫
+    Worlds: world
+    Chance: 0.003
+    Priority: 4
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSkeleton✫✫✫✫✫:
+    MobType: Skeleton✫✫✫✫✫
+    Worlds: world
+    Chance: 0.0012
+    Priority: 5
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+
+RandomSpider✫:
+    MobType: Spider✫
+    Worlds: world
+    Chance: 0.51
+    Priority: 1
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSpider✫✫:
+    MobType: Spider✫✫
+    Worlds: world
+    Chance: 0.035
+    Priority: 2
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSpider✫✫✫:
+    MobType: Spider✫✫✫
+    Worlds: world
+    Chance: 0.012
+    Priority: 3
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSpider✫✫✫✫:
+    MobType: Spider✫✫✫✫
+    Worlds: world
+    Chance: 0.003
+    Priority: 4
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomSpider✫✫✫✫✫:
+    MobType: Spider✫✫✫✫✫
+    Worlds: world
+    Chance: 0.0012
+    Priority: 5
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomCreeper✫:
+    MobType: Creeper✫
+    Worlds: world
+    Chance: 1.0
+    Priority: 1
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+
+RandomCreeper✫✫:
+    MobType: Creeper✫✫
+    Worlds: world
+    Chance: 0.050
+    Priority: 2
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomCreeper✫✫✫:
+    MobType: Creeper✫✫✫
+    Worlds: world
+    Chance: 0.014
+    Priority: 3
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomCreeper✫✫✫✫:
+    MobType: Creeper✫✫✫✫
+    Worlds: world
+    Chance: 0.003
+    Priority: 4
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+    
+RandomCreeper✫✫✫✫✫:
+    MobType: Creeper✫✫✫✫✫
+    Worlds: world
+    Chance: 0.0012
+    Priority: 5
+    Action: REPLACE
+    Conditions:
+    - inblock water,STATIONARY_WATER false
+    - onblock water,STATIONARY_WATER false
+
