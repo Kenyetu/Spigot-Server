@@ -21,3 +21,4 @@ banned-ips.json
 banned-players.json
 ops.json
 *.java
+*.class
