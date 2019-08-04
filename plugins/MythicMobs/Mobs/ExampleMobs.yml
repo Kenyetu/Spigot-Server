@@ -124,18 +124,32 @@ Zombie✫✫:
     Display: '&aZombie✫✫'
     Health: 40
     Damage: 8
+    Equipment:
+    - LEATHER_BOOTS FEET
+    - LEATHER_LEGGINGS LEGS
+    - LEATHER_CHESTPLATE CHEST
     
 Zombie✫✫✫:
     Type: ZOMBIE
     Display: '&1Zombie✫✫✫'
     Health: 40
     Damage: 8
+    Equipment:
+    - GOLD_BOOTS FEET
+    - GOLD_LEGGINGS LEGS
+    - GOLD_CHESTPLATE CHEST
     
 Zombie✫✫✫✫:
     Type: ZOMBIE
     Display: '&5Zombie✫✫✫✫'
     Health: 40
     Damage: 8
+    Equipment:
+    - IRON_BOOTS FEET
+    - IRON_LEGGINGS LEGS
+    - IRON_HELMET HEAD
+    - IRON_CHESTPLATE CHEST
+    - IRON_SWORD HAND
     
 Zombie✫✫✫✫✫:
     Type: ZOMBIE
@@ -201,7 +215,7 @@ Creeper✫✫✫✫:
     Type: CREEPER
     Display: '&5Creeper✫✫✫✫'
     Health: 40
-    Damage: 45
+    Damage: 8
     
 Creeper✫✫✫✫✫:
     Type: CREEPER

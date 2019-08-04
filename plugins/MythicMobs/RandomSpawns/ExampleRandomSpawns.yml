@@ -12,6 +12,7 @@ RandomZombie✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomZombie✫✫:
     MobType: Zombie✫✫
@@ -22,6 +23,7 @@ RandomZombie✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomZombie✫✫✫:
     MobType: Zombie✫✫✫
@@ -32,6 +34,7 @@ RandomZombie✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomZombie✫✫✫✫:
     MobType: Zombie✫✫✫✫
@@ -42,6 +45,7 @@ RandomZombie✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomZombie✫✫✫✫✫:
     MobType: Zombie✫✫✫✫✫
@@ -52,6 +56,7 @@ RandomZombie✫✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSkeleton✫:
     MobType: Skeleton✫
@@ -62,6 +67,7 @@ RandomSkeleton✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
 
     
 RandomSkeleton✫✫:
@@ -73,6 +79,7 @@ RandomSkeleton✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
 
 RandomSkeleton✫✫✫:
     MobType: Skeleton✫✫✫
@@ -83,6 +90,7 @@ RandomSkeleton✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSkeleton✫✫✫✫:
     MobType: Skeleton✫✫✫✫
@@ -93,6 +101,7 @@ RandomSkeleton✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSkeleton✫✫✫✫✫:
     MobType: Skeleton✫✫✫✫✫
@@ -103,6 +112,7 @@ RandomSkeleton✫✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
 
 RandomSpider✫:
     MobType: Spider✫
@@ -113,6 +123,7 @@ RandomSpider✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSpider✫✫:
     MobType: Spider✫✫
@@ -123,6 +134,7 @@ RandomSpider✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSpider✫✫✫:
     MobType: Spider✫✫✫
@@ -133,6 +145,7 @@ RandomSpider✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSpider✫✫✫✫:
     MobType: Spider✫✫✫✫
@@ -143,6 +156,7 @@ RandomSpider✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomSpider✫✫✫✫✫:
     MobType: Spider✫✫✫✫✫
@@ -153,6 +167,7 @@ RandomSpider✫✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomCreeper✫:
     MobType: Creeper✫
@@ -163,6 +178,7 @@ RandomCreeper✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
 
 RandomCreeper✫✫:
     MobType: Creeper✫✫
@@ -173,6 +189,7 @@ RandomCreeper✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomCreeper✫✫✫:
     MobType: Creeper✫✫✫
@@ -183,6 +200,7 @@ RandomCreeper✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomCreeper✫✫✫✫:
     MobType: Creeper✫✫✫✫
@@ -193,6 +211,7 @@ RandomCreeper✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
     
 RandomCreeper✫✫✫✫✫:
     MobType: Creeper✫✫✫✫✫
@@ -203,4 +222,5 @@ RandomCreeper✫✫✫✫✫:
     Conditions:
     - inblock water,STATIONARY_WATER false
     - onblock water,STATIONARY_WATER false
+    - mobsinchunk 15 false
 

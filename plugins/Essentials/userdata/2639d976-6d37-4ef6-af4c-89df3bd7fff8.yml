@@ -1,13 +1,13 @@
 timestamps:
-  lastteleport: 1564891072107
-  login: 1564895151893
+  lastteleport: 1564898921918
+  login: 1564897916037
 afk: false
 lastlocation:
   world: world
-  x: -657.5
-  y: 76.0000002
-  z: -210.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -103.54070193282215
+  y: 80.25435263913081
+  z: -177.6270207708008
+  yaw: 332.4693
+  pitch: -38.25013
 lastAccountName: Kenyetu
 ipAddress: 192.168.1.254
