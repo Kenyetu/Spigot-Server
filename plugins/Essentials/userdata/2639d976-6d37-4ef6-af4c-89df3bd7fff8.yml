@@ -1,7 +1,7 @@
 timestamps:
   lastteleport: 1564891072107
-  login: 1564892716623
-afk: true
+  login: 1564895151893
+afk: false
 lastlocation:
   world: world
   x: -657.5

@@ -1,14 +1,14 @@
 lastlocation:
   world: world
-  x: 24.31516649082395
-  y: 77.05618527773119
-  z: -127.12970678823989
-  yaw: -268.52188
-  pitch: 16.49964
+  x: -2.926977155738914
+  y: 71.30018494692881
+  z: -121.76599814473809
+  yaw: 199.8813
+  pitch: 5.549928
 afk: false
 lastAccountName: Perll
 timestamps:
-  login: 1564892722312
+  login: 1564895399237
   lastteleport: 1564890863176
   logout: 1564890200477
 ipAddress: 76.167.69.243

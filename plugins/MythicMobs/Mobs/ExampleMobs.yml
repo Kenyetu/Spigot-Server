@@ -210,6 +210,7 @@ Creeper✫✫✫✫✫:
     Damage: 8
     Skills:
     - explosion{yield=3;blockdamage=false;fire=true} @Self ~onExplode <99999 1
+    - forcepull{2} @target ~onDamaged <99999 0.4
     DamageModifiers:
     - ENTITY_EXPLOSION 0
     - BLOCK_EXPLOSION 0
